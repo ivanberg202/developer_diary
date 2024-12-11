@@ -1,0 +1,6 @@
+## Date 20241211:
+- worked on Klasstra, teacher dashboard
+- my pervious work on parent dashboard broke the reused endpoints
+- last night I over-complicated the registration flow and couldn't make it work. Today I simplified by kicking out profile from it.
+- keep it simple; when de-bugging, ask chatGPT to put detailed logs into the file, then paste console content into it, which will give much better feedback and will speed up resolving the issue by chatGPT. It has its limits at identifying issues in a larger file (200 lines) or multiple files.
+- finish the core functionality and start production deployment

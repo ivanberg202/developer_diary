@@ -1,4 +1,18 @@
-## Date 20241211:
+## Date:
+- **What I worked on:**
+- **Challenges faced:**
+- **Key insights:**
+- **Plans for tomorrow:**
+
+
+20241212
+- Made parent dashboard work, with some bugs. Then switched to SQLite to deploy more easily and the app broke down again (SQLite supports JSON instead of arrays from postgreSQL). I need to debug this in the morning as I'm too tired at 8:43pm (Stella woke up at 5am)
+- ClassSelector on parent dashboard didn't work as intended. Fixing was complicated.
+- Amir told me I can also deploy on my local computer, using it as a server. I spent some time setting a fixed IP address. Sona told me Netlify has 3 projects for free.
+- The code is a mess. I might want to rethink it and implement from scretch as it's getting too long to do any change.
+- Make the existing code base work on SQLite and try to deploy.
+
+20241211:
 - worked on Klasstra, teacher dashboard
 - my pervious work on parent dashboard broke the reused endpoints
 - last night I over-complicated the registration flow and couldn't make it work. Today I simplified by kicking out profile from it.
